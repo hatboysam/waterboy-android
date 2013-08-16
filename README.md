@@ -8,3 +8,4 @@
   `application/com.google.plus.waterboy` and with values `blue.p1`, `blue.p2`,
   `red.p1`, and `red.p2`.
 * Run it!
+* Depends on Google Play Services Lib and ActionBarSherlock.
