@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Waterboy</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome">DevRel Foosball Companion</string>
+    <string name="progress_message">Loading...</string>
+    <string name="unknown">\?</string>
+    <color name="blue">#4285F4</color>
+    <color name="red">#DB4437</color>
+    <color name="dark_grey">#4D4D4D</color>
+    <color name="light_grey">#E6E6E6</color>
+    <string name="host">http://192.241.227.103:3001</string>
+
+</resources>
